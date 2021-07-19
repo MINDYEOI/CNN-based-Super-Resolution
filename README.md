@@ -26,11 +26,11 @@
     * 출력 : baby_512x512_output_srcnn.bmp
  
  ## 주관적 평가
- * baby_512x512_input.bmp
+ * `baby_512x512_input.bmp` <br>
  ![image](https://user-images.githubusercontent.com/71140885/126173668-f23f7fc3-4de1-4fd1-9466-ab1ecc64c0ec.png)
 
- * baby_512x512_output_mean.bmp
+ * `baby_512x512_output_mean.bmp`<br>
  ![image](https://user-images.githubusercontent.com/71140885/126173707-3f1433d5-fe3b-4d1d-b6ac-333ebf4311cf.png)
 
- * baby_512x512_output_srcnn.bmp
+ * `baby_512x512_output_srcnn.bmp`<br>
 ![image](https://user-images.githubusercontent.com/71140885/126173735-59782faa-5758-411d-b6c3-77a5810e551e.png)
