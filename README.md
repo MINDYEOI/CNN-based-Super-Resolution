@@ -13,10 +13,10 @@
   * Layer와 Tensor를 vector로 관리
   * 순차적으로 Layer를 수행하고 출력 결과를 저장함.<br><br>
 ![image](https://user-images.githubusercontent.com/71140885/126168617-5fadec8c-dd36-42dc-b7ce-0baad7a80f8a.png)
-<br>
-  * 테스트 결과로 더 blur된 영상이 생성됨(평균값 필터링을 적용함.)
-    * 입력 : baby_512x512_input.bmp
-    * 출력 : baby_512x512_output_mean.bmp
+<br><br>
+* 테스트 결과로 더 blur된 영상이 생성됨(평균값 필터링을 적용함.)
+* 입력 : baby_512x512_input.bmp
+* 출력 : baby_512x512_output_mean.bmp
     
  `_4_main_model_srcnn.cpp` 구현.
  * 최초 CNN 기반 SR 모델 (SRCNN : Super-Resolution CNN)을 구현함. <br>
